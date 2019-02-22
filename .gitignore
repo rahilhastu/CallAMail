@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+*.pyc
 
 # C extensions
 *.so
@@ -102,3 +103,12 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+*.pickle
+*.txt
+*.log
+
+credentials.json
+client.id
+twilioCred.json
+firstInstance1.pem
