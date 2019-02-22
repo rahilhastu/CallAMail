@@ -109,6 +109,6 @@ venv.bak/
 *.log
 
 credentials.json
-client.id
+client_id.json
 twilioCred.json
 firstInstance1.pem
